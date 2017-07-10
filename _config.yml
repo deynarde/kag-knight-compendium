@@ -15,12 +15,12 @@ license:
 links:
     header:
       - title: GitHub
-        url: https://github.com/kag-knight-compendium
+        url: https://github.com/deynarde/kag-knight-compendium
     footer:
       - title: GitHub
-        url: https://github.com/kag-knight-compendium
+        url: https://github.com/deynarde/kag-knight-compendium
       - title: Issues
-        url: https://github.com/kag-knight-compendium/issues?state=open
+        url: https://github.com/deynarde/kag-knight-compendium/issues?state=open
 
 ui:
     header:
