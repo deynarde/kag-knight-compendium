@@ -3,7 +3,7 @@ layout: page
 homepage: true
 ---
 
-# Introduction
+# Knight Compendium
 
 Welcome to deynarde ([Cohen](https://forum.thd.vg/members/cohen.14965/)) & Joan of Arc's ([Eluded](https://forum.thd.vg/members/eluded.8036/)) Knight Compendium.
 
@@ -18,7 +18,7 @@ Steam guide: [link](http://steamcommunity.com/sharedfiles/filedetails/?id=851481
 
 The compendium is split into several sections:
 
-# Mobility​
+# Mobility
 
 ## Slash jump
 
