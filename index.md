@@ -419,6 +419,8 @@ Quadra, penta and hexa bomb jumps are possible with 4, 5 and 6 bombs. All of the
 * Midair bomb jump off bomb 4
 * Repeat for 5 and 6
 
+![](http://i.giphy.com/l0Exr0R1nAq9RmEXm.gif)
+
 ## Saw jump
 
 An easier, but perhaps less convenient, way to do multi bomb jumps is to throw all of your bombs on the ground – and then throw a saw on top of them. The saw will damage all of the bombs and cause them all to explode at once. This huge explosion will send you flying.
@@ -471,7 +473,7 @@ Bombs in water will rise very quickly upwards. This can be used to surprise an e
 
 ![](http://i.giphy.com/l3q2ObEcFViv5n7BS.gif)
 
-# Combos​
+# Combos
 
 ## Slash → jab → jab head
 
@@ -516,7 +518,7 @@ This combo deals up to 4 points of damage. The idea is to throw a bomb so it exp
 
 ![](http://i.giphy.com/xUPGcEL5zjfcrSBzO0.gif)
 
-# Misc​
+# Misc
 
 These are moves which don't fit into any other category!
 
