@@ -100,7 +100,7 @@ This is a good way to get some extra horizontal distance when jumping off a towe
 
 ## Faster movement during slash charging
 
-Aiming in the opposite direction to which you are moving will allow you to go a little faster when charging an attack. You should pretty much always do this.
+Aiming in the same direction to which you are moving will allow you to go a little faster when charging an attack. You should pretty much always do this.
 
 ![](http://i.giphy.com/3o7bu1igUy5zQnu8eY.gif)
 
