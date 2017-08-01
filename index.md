@@ -68,7 +68,7 @@ As an enemy player runs through team doors, they are momentarily left open. This
 
 ## Water buoyancy
 
-As you rise up through water you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
+As you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
 
 ![](http://i.giphy.com/l3q2tHLYGNsfWMpMY.gif)
 
