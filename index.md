@@ -457,7 +457,7 @@ Catching kegs is also possible with good timing, and will make you the hero of a
 
 ![](http://i.giphy.com/l3q2NiE8lQrk2F2AE.gif)
 
-Water bombs can also be caught.
+Water bombs can also be caught, but you have to be careful, since water bombs will explode on impact. You must dodge the bomb, or catch it before it touches anything else. It's best to do this when the bomb gets thrown above your head, as in the example below. 
 
 ![](http://i.giphy.com/l0Ex75oS6lMiX4Kis.gif)
 
