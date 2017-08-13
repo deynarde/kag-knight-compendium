@@ -563,7 +563,7 @@ Important note: Most (if not all) stuns do not add up.
 | Getting hit in bed stuns for:                       | 30 ticks.          |
 | Travel via tunnel stuns for:                        | 30 ticks.          |
 | Water stuns for:                                    | 45 ticks.          |
-| Water (w/ sponge) stuns for:                        | 15 ticks.          |
+| Water (w/ sponge) stuns for:                        | 5 ticks.           |
 | Getting shot w/ catapult stuns for:                 | 30 ticks.          |
 | Falling stuns for:                                  | 12 ticks.          |
 +=====================================================|====================+
