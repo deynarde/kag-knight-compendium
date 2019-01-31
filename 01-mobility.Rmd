@@ -1,0 +1,91 @@
+# Mobility
+
+## Slash jump
+
+A knight can jump higher than normal by slashing to give themselves some extra velocity. Time your slash so that it triggers just after you start your jump.
+
+![](https://i.giphy.com/26gspgfU1rGbaP4dy.gif)
+
+## Wall gliding
+
+A slash jump can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block (up to 9 blocks can be climbed this way).
+
+![](http://i.giphy.com/26xBM6wWHAnNagBMc.gif)
+
+## Quick shield slide
+
+Shield sliding is done by pointing the mouse below your character and shielding. But you can move significantly faster by rapidly tapping the W key as you are sliding. For maximum speed, try and hit W as soon as you hit the ground on each bounce.
+
+![](http://i.giphy.com/26xBLmDuBnNryL280.gif)
+
+## Climbing arrows
+
+It is possible to climb arrows that archers shoot into a tower.
+
+![](http://i.giphy.com/l0ExbSQvf2sHQKhu8.gif)
+
+It is also possible to navigate around platforms on towers if there are enough arrows.
+
+![](http://i.giphy.com/26gs7VUp0yO1CgGFG.gif)
+
+## Chicken glide
+
+Hold a chicken and take a ride in a catapult to get behind enemy lines!
+
+![](http://i.giphy.com/l3q2wlWOODUtOXhn2.gif)
+
+## Using walls for extra velocity
+
+Pushing off a wall gives you a small burst of speed. This speed boost can be extremely useful to help you win a slash timing.
+
+![](http://i.giphy.com/26xBs6lMBh7fOYhcQ.gif)
+
+## Following a retreating enemy through doors
+
+As an enemy player runs through team doors, they are momentarily left open. This gives you enough time to follow them through.
+
+![](http://i.giphy.com/d3mnyVmR46tCtFsY.gif)
+
+## Water buoyancy
+
+As you wall-climb while underwater you receive a significant speed boost. This can be very useful for surprising your enemy with an upwards slash.
+
+![](http://i.giphy.com/l3q2tHLYGNsfWMpMY.gif)
+
+## Small shield glide
+
+A shield slide can be performed even on a 1 block wide tower. This can be very useful in CTF to get some extra speed for crossing gaps.
+
+![](http://i.giphy.com/l3q2KWvHyIew0Zitq.gif)
+
+## Corner vaulting
+
+This is an advanced movement trick which can allow for some enormous jumps. To do it, jump so you land exactly on the corner of a block, whilst shielding downwards. As you hit the corner – raise your shield into a shield glide. Don't hit the corner completely vertically, but have a small horizontal velocity.
+
+In our testing we have been unable to corner vault from a straight corner. We think this move requires a specific block formation as shown in the GIF, but it may be possible to vault from other kinds of block formations.
+
+![](http://i.giphy.com/l3q2vi7FsZPitlFpC.gif)
+
+## Slash escape
+
+Slashing can sometimes be used as an escape mechanism due to the small speed boost it gives.
+
+![](http://i.giphy.com/xUPGcGofZjZ2J5l8wo.gif)
+
+## Tower wall jump
+
+This is a good way to get some extra horizontal distance when jumping off a tower. To do it, slightly drop off the tower and push off while shield gliding.
+
+![](http://i.giphy.com/xUPGcBVh4Vnb6OqRi0.gif)
+
+## Faster movement during slash charging
+
+Aiming in the same direction to which you are moving will allow you to go a little faster when charging an attack. You should pretty much always do this.
+
+![](http://i.giphy.com/3o7bu1igUy5zQnu8eY.gif)
+
+## Bounce off water
+
+Shield sliding onto water will allow you to do a little bounce before you sink. This can be useful for quickly moving over water.
+
+![](http://i.giphy.com/xUPGcDwxSsu9EpMHgA.gif)

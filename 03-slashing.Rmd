@@ -1,0 +1,78 @@
+# Slashing
+
+Slash timing is something that takes a long while to get used to and that you can only get good at through practice. It's important to remember though that there are two main components to winning a timing:
+One is your speed; if two knights slash at the same time then the faster moving one will tend to win.
+The other is the earliness of your slash. Begin charging your slash long before the enemy does and you will tend to win.
+
+Slash earlier, move faster, and you will rarely lose a timing.
+
+## Overhead slash
+
+A similar technique to an overhead jab but done but with a slash. Jump over the enemy whilst charging a slash and then hit them in the back.
+
+![](http://i.giphy.com/26xBSe7Y1eW0LKtPO.gif)
+
+Again this is very useful against a shield sliding enemy.
+
+![](http://i.giphy.com/l0ExnnYPXH9582Onm.gif)
+
+## Counter slash
+
+If you are against an aggressive fighter then a way to beat them is to bait them to come forward with their slash or double slash. As they do so, you move back whilst charging your own slash. As their slash ends, you turn and hit them.
+
+![](http://i.giphy.com/l0ExvRAtmZuXqaSOs.gif)
+
+## Counter double slash
+
+The same as above but with a double slash.
+
+![](http://i.giphy.com/l0ExdZqvHWU2SyPh6.gif)
+
+## Aggressive double slash
+
+This is a risky but potentially rewarding move. The aim is to take advantage of the large distance that a knight can travel whilst double slashing, hitting nothing with the first slash but hitting the enemy with the 2nd.
+
+For maximum effectiveness, do a small jump between the slashes so your movement forms a kind of ‘m’ shape – this will allow you to move as far as possible.
+
+This could be followed up with a jab for a slash → jab combo.
+
+![](http://i.giphy.com/l3q2QbtTBusj7EPGU.gif)
+
+## Winning slash on L shapes
+
+Many maps have shapes that look like this: MISSING IMAGE HERE
+
+In this situation, the knight who moves first (red in the image) tends to lose slash – even if they slashed earlier. This is because they have a large vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to win.
+
+![](http://i.giphy.com/d3mnrh3yLOFdkKC4.gif)
+
+This situation often occurs in CTF when there are doors on top of towers.
+
+It is worth mentioning that the L-shape situation usually favours the knight coming up from below. This is partly because you can move upwards more quickly than you can move sidewards. Also most of the knight's body is shielded by the blocks going up the wall. In this GIF the blue and red knight arrive at the intersection at roughly the same time, but the blue knight wins. This is usually the case.
+
+![](http://i.giphy.com/26xBLpnBW9JY7UDyU.gif)
+
+## Two side slash
+
+Since the arc of your slash follows your mouse cursor whilst the slash is active, it is possible to start slashing on one side, then quickly move the mouse to the other side in order to slash on both sides of yourself. To do this right you must very quickly flick your mouse from the right side of your character to the left (or vice versa).
+
+![](http://i.giphy.com/l0Exk4r05B6UBapeU.gif)
+
+## Slashing ballista bolts
+
+Ballista bolts are actually quite fragile. In fact, they can be slashed out of the air with good timing. Doing this can be gamebreaking if your tower is under heavy siege.
+
+![](http://i.giphy.com/26xBLcRJsuNqbJ6eY.gif)
+
+## Slash stomping
+
+This move is difficult to execute consistently and relies on you having just the right amount of height and speed. The idea is to stomp a shielding enemy as you slash them, so that the stomp stuns them and then the slash hits. With practice it can be done repeatedly if you are above an enemy in order to stunlock them.
+
+![](http://i.giphy.com/l0ExsBjXNbVtyCJlC.gif)
+
+## Slash charge
+
+Similar to a jab charge, a slash charge is a short, quick shield slide in order to gain speed as you charge your slash. You can often surprise an enemy this way by quickly travelling a large distance. For this to work you must charge your slash in mid-air, or the speed boost will be irrelevant.
+
+![](http://i.giphy.com/26gsbuZ7fuInBNQ5i.gif)
+

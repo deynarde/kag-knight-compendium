@@ -1,0 +1,9 @@
+# Misc
+
+These are moves which don't fit into any other category!
+
+## Masking sword movements
+
+By holding an item such as a log or crate, you can mask your sword movements and make it difficult for an enemy to see what you are doing. This makes it easier to win slash timings in particular.
+
+![](http://i.giphy.com/26gslQj1YujZyKckE.gif)

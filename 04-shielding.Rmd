@@ -1,0 +1,62 @@
+# Shielding
+
+## Shield slide stun
+
+Shield sliding horizontally into the enemy will stun them for a short duration if you have enough speed.
+This stun is long enough to get 1 quick jab.
+
+This move is most useful in narrow corridors where it cannot be countered by overhead jab or overhead slash.
+
+![](http://i.giphy.com/26xBtjJAiwJSgTSGQ.gif)
+
+## Shield bash
+
+Another way to stun someone is to land on them from above whilst shielding. Even a landing from a very small height can be enough to stun someone.
+
+In order to be able to jab after the stun you should hold S as you land. If not then you will bounce off the enemy and will be too far away to be able to jab before their stun wears off.
+
+![](http://i.giphy.com/26xBxIdaY3qgT3cPu.gif)
+
+# Crouching
+
+Crouching is a largely forgotten feature in KAG. To do it just hold the ‘S’ key whilst on the ground. What it does is allows other players to pass right through you without colliding. This leads to some very powerful combat techniques.
+For crouch to work your character must be completely still.
+
+## Crouch slash
+
+It is possible to crouch whilst slashing or charging up a slash. It is impossible to know if someone is doing this because there is no animation for it. So it is the perfect counter to shield slide stun or shield bash.
+
+![](http://i.giphy.com/26xBLnFVrU4pCTPUs.gif)
+
+## Defensive crouch
+
+You can also crouch whilst shielding. This is again a nice counter to shield stuns. Crouching actually increases the radius of your shield – so doing this also makes it easier to block attacks.
+
+![](http://i.giphy.com/l3q2D2Rhjfb5YCtyw.gif)
+
+## Phase jab
+
+A common situation is you and your enemy both have your shields up and are running into each other. A good trick is to crouch here, so that the enemy phases through you. As they exit their back will be turned to you and you can jab them. This does require very precise timing.
+
+![](http://i.giphy.com/26xBHqQ1HewoPmNQA.gif)
+
+## Phase slash
+
+Exactly the same as phase jab but with a slash. This is slower and thus more risky – but also more rewarding.
+
+![](http://i.giphy.com/d3mlRoFWM5d1tYCk.gif)
+
+## Blitz crouch
+
+This is a more advanced way to get under the enemy so you can do a phase jab or phase slash (credit to Auky for inventing and naming this). To do it, do a shield slide stun which will slightly pop the enemy up in the air. As they fall you move slightly under them and crouch so that they fall into you (both of your hitboxes are overlapping).
+
+Your hitboxes will look like this: MISSING IMAGE
+At this point, you can phase through the enemy and attack them.
+
+![](http://i.giphy.com/26xBDuLU7m4uJepck.gif)
+
+## Crouch whilst being stunned by water
+
+You can crouch whilst being stunned by water! This might prevent you from being stomped.
+
+![](http://i.giphy.com/26xBrDlgzBtpRQ1b2.gif)

@@ -1,0 +1,74 @@
+# Jabbing
+
+This section begins with a word about hitboxes in KAG.
+
+The game models a knight as a circle.
+
+![](https://imgur.com/download/5eWhryP)
+
+Both jab and slash are shaped as arcs, which move with your character and are active for a certain duration (slash lasts much longer than jab).
+
+![](http://i.giphy.com/26xBB2l6nd4QhryCc.gif)
+
+Your shield covers an arc around your character centered on the direction your mouse is pointing. If you think that you were hit through your shield by someone – ask yourself, were you pointing in the right direction to cover the full arc of the attack?
+
+It is possible to see the hitboxes for yourself by going into solo sandbox mode, opening the console (by pressing the Home key) and typing `/g_debug 1`.
+
+## Tempo jab
+
+Often you will get into the situation where you are shielding and an enemy knight is repeatedly slashing you. Thus the other knight has the tempo advantage. If you try and slash them, then you will die as you will have begun charging your slash after them – so they will always be able to release earlier.
+
+One way to escape this situation is with a quick jab – which will interrupt the enemy's slash.
+Beware though – if you have only 1 heart, a good enemy will instantly jab you back for the kill.
+
+![](http://i.giphy.com/l3q2Upwd8ewFC5y9O.gif)
+
+## Overhead jab
+
+Jump over the enemy's head and jab them before they can react and move their shield. Don't just click but instead hold your mouse button for a short while until you are at the perfect point to release the jab.
+
+![](http://i.giphy.com/l3q2TeeqwbCZaj2iQ.gif)
+
+This is especially effective on a shield sliding enemy, as they will not be able to move their shield to defend themselves.
+
+![](http://i.giphy.com/l3q2Kog9IsFUadqcU.gif)
+
+## Slash → jab
+
+A successful slash on someone who isn't shielding will stun them for a short period of time. The stun duration is long enough that you can jab immediately after your slash, before the enemy can get their shield back up. This move turns 2 points of damage into 3 points.
+
+Be careful though because if you aren't quick enough then you will end up jabbing the enemy's shield.
+
+![](http://i.giphy.com/26gswzpT3XHEgsSfC.gif)
+
+## Power slash → slash → jab
+
+The same technique as above can be done with a double slash on a shielding enemy. The first slash will break their shield, the second will hit and finally you can follow up with a jab.
+
+![](http://i.giphy.com/26xBx4MLhOpdDUtC8.gif)
+
+## Jab after shield stun
+
+If someone makes the mistake of jabbing your shield then they will be stunned. Punish this mistake by instantly jabbing them for a free point of damage.
+
+![](http://i.giphy.com/l3q2uFeF1VGptPerC.gif)
+
+## Two jabs after shield stun
+
+If you have quick reactions then it is possible to jab twice after a shield stun for 2 points of damage before the enemy can raise their shield again.
+
+This move may be impossible without good ping.
+
+![](http://i.giphy.com/l0ExlX2emNqS5LYoE.gif)
+
+## Counter jab
+
+Very similar to a counter slash, a counter jab punishes the enemy for missing their attack. As the enemy ends their slash, turn around and quickly jab them. They won't have time to shield.
+
+![](http://i.giphy.com/l3q2zlnYrvsGBIiv6.gif)
+
+## Jab charge
+
+An aggressive but extremely fun move; a jab charge is a quick shield slide to gain speed followed by a jab. This is an effective way to interrupt someone who is charging a slash – but for it to succeed it must be done with extreme speed.
+
+![](http://i.giphy.com/l3q2ER5kDW0N8PrZ6.gif)
