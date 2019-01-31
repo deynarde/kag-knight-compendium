@@ -31,7 +31,6 @@ Exactly the same as phase jab but with a slash. This is slower and thus more ris
 
 This is a more advanced way to get under the enemy so you can do a phase jab or phase slash (credit to Auky for inventing and naming this). To do it, do a shield slide stun which will slightly pop the enemy up in the air. As they fall you move slightly under them and crouch so that they fall into you (both of your hitboxes are overlapping).
 
-Your hitboxes will look like this: MISSING IMAGE
 At this point, you can phase through the enemy and attack them.
 
 ![](http://i.giphy.com/26xBDuLU7m4uJepck.gif)
