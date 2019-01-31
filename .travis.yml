@@ -1,7 +1,10 @@
 language: r
 
 cache:
+  directories: $TRAVIS_BUILD_DIR/packrat/
   packages: true
+install:
+  - R -e "0" --args --bootstrap-packrat
 
 r_packages:
   - bookdown
