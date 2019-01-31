@@ -40,9 +40,7 @@ This could be followed up with a jab for a slash → jab combo.
 
 ## Winning slash on L shapes
 
-Many maps have shapes that look like this: MISSING IMAGE HERE
-
-In this situation, the knight who moves first (red in the image) tends to lose slash – even if they slashed earlier. This is because they have a large vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to win.
+In L shape situation, the knight who moves first (red in the image) tends to lose slash – even if they slashed earlier. This is because they have a large vertical speed but almost no horizontal speed. The knight who moves second (blue) will have a large horizontal speed towards the enemy – and is thus far more likely to win.
 
 ![](http://i.giphy.com/d3mnrh3yLOFdkKC4.gif)
 

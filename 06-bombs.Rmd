@@ -19,10 +19,10 @@ Often when playing CTF you want to jump from the top of your team's tower. In or
 You can get increased height and distance by jumping with two bombs.
 There are a few minor variations on double bomb jumps. In this variation, you throw the 2nd bomb before it explodes.
 
-* Light bomb 1 and place it on the ground
-* Light bomb 2 and keep it in your hand
-* Bomb jump off bomb 1
-* In midair, throw bomb 2 under yourself right before it explodes to bomb jump again
+1. Light bomb 1 and place it on the ground
+2. Light bomb 2 and keep it in your hand
+3. Bomb jump off bomb 1
+4. In midair, throw bomb 2 under yourself right before it explodes to bomb jump again
 
 ![](http://i.giphy.com/l0ExmSDaZzsRL2lwI.gif)
 
@@ -32,10 +32,10 @@ In this double bomb jump variation, you don't throw the 2nd bomb – but you kee
 
 A nice way to do this bomb jump is to rapidly press Space (light bomb 1) → C (put bomb 1 on ground) → Space (light bomb 2). It is best when you need height rather than distance.
 
-* Light bomb 1 and place it on the ground
-* Light bomb 2 and keep it in your hand
-* Bomb jump off bomb
-* Keep holding bomb 2 as it explodes to bomb jump again midair
+1. Light bomb 1 and place it on the ground
+2. Light bomb 2 and keep it in your hand
+3. Bomb jump off bomb
+4. Keep holding bomb 2 as it explodes to bomb jump again midair
 
 ![](http://i.giphy.com/26gsoWS9sMXauPrEs.gif)
 
@@ -45,10 +45,10 @@ This is the most difficult way to double bomb jump, however, it may be easier wi
 
 It is the best way to do a powerful keg jump, since you can light both bombs and then pick up the keg.
 
-* Light bomb 1 and place it on the ground
-* Light bomb 2 and place it on the ground
-* Bomb jump off bomb 1
-* As you are moving away bomb 2 will explode and increase your speed
+1. Light bomb 1 and place it on the ground
+2. Light bomb 2 and place it on the ground
+3. Bomb jump off bomb 1
+4. As you are moving away bomb 2 will explode and increase your speed
 
 High ping version below.
 
@@ -59,14 +59,14 @@ High ping version below.
 It is possible to bomb jump with 3 bombs. You must be able to place a lit bomb in your inventory and then remove it before it explodes. Normally bombs do up to 3 points of damage, but a lit bomb exploding in your inventory will instantly kill you.
 
 
-* Light bomb 1 and place it on the ground
-* Light bomb 2 and place it on the ground
-* Light bomb 3 and place it in your inventory (tap F)
-* Pick up bomb 2
-* Bomb jump off bomb 1
-* Midair bomb jump off bomb 2 (with either the held or thrown variation)
-* Take bomb 3 out of your inventory (hold F and click it)
-* Midair bomb jump off bomb 3 (with either variation)
+1. Light bomb 1 and place it on the ground
+2. Light bomb 2 and place it on the ground
+3. Light bomb 3 and place it in your inventory (tap F)
+4. Pick up bomb 2
+5. Bomb jump off bomb 1
+6. Midair bomb jump off bomb 2 (with either the held or thrown variation)
+7. Take bomb 3 out of your inventory (hold F and click it)
+8. Midair bomb jump off bomb 3 (with either variation)
 
 ![](http://i.giphy.com/l0ExfJOwBWcLV0OiI.gif)
 
@@ -75,20 +75,20 @@ It is possible to bomb jump with 3 bombs. You must be able to place a lit bomb i
 Quadra, penta and hexa bomb jumps are possible with 4, 5 and 6 bombs. All of these follow the same pattern as a triple bomb jump but require you to put more bombs in your inventory. These jumps are extremely hard to do consistently and may never be useful in an actual game – but are nevertheless very fun to learn! The instructions below are for a hexa (6) bomb jump.
 
 
-* Light bomb 1 and place it on the ground
-* Light bomb 2 and place it on the ground
-* Light bomb 3 and place it in your inventory (tap F)
-* Light bomb 4 and place it in your inventory (tap F)
-* Light bomb 5 and place it in your inventory (tap F)
-* Light bomb 6 and place it in your inventory (tap F)
-* Pick up bomb 2
-* Bomb jump off bomb 1
-* Midair bomb jump off bomb 2
-* Take bomb 3 out of your inventory (the lit bombs will stack in your inventory in the order they were lit – so 3 will always be the first you take out rather than 6).
-* Midair bomb jump off bomb 3
-* Take bomb 4 out of your inventory
-* Midair bomb jump off bomb 4
-* Repeat for 5 and 6
+1. Light bomb 1 and place it on the ground
+2. Light bomb 2 and place it on the ground
+3. Light bomb 3 and place it in your inventory (tap F)
+4. Light bomb 4 and place it in your inventory (tap F)
+5. Light bomb 5 and place it in your inventory (tap F)
+6. Light bomb 6 and place it in your inventory (tap F)
+7. Pick up bomb 2
+8. Bomb jump off bomb 1
+9. Midair bomb jump off bomb 2
+10. Take bomb 3 out of your inventory (the lit bombs will stack in your inventory in the order they were lit – so 3 will always be the first you take out rather than 6).
+11. Midair bomb jump off bomb 3
+12. Take bomb 4 out of your inventory
+13. Midair bomb jump off bomb 4
+14. Repeat for 5 and 6
 
 ![](http://i.giphy.com/l0Exr0R1nAq9RmEXm.gif)
 

@@ -36,4 +36,3 @@ Important note: Most (if not all) stuns do not add up.
 | Water (w/ sponge) stuns for:                        | 5 ticks.           |
 | Getting shot w/ catapult stuns for:                 | 30 ticks.          |
 | Falling stuns for:                                  | 12 ticks.          |
-+=====================================================|====================+
