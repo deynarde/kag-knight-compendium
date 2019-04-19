@@ -16,7 +16,7 @@ Important note: Most (if not all) stuns do not add up.
 | Overcharging (archer and knight) stuns for:         | 15 ticks.          |
 | Mine activation takes:                              | 45 ticks.          |
 | Bomb activation takes:                              | 120 ticks.         |
-| Keg activation takes:                               | 300 ticks.         |
+| Keg activation takes:                               | 180 ticks.         |
 | Slashes (clean hit) stuns for:                      | 20 ticks.          |
 | Slashes (shielded) stuns (enemy) for:               | 10 ticks.          |
 | Stabs (clean hit) stuns for:                        | 2 ticks.           |
