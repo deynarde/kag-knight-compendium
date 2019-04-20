@@ -27,4 +27,6 @@ If you can master every technique here then you will become a fearsome opponent 
 
 We want this list to be as comprehensive as possible, so if you know an interesting move that we have missed – do tell one of us either over the forums or in game.
 
-> For a complete knight guide see [Knight Guides](https://deynarde.github.io/kag-knight-guide/). Also you can contact us on Discord (`Eluded#1367`, `deynarde#4491`).
+> For a complete knight guide see [Knight Guides](https://deynarde.github.io/kag-knight-guide/).
+
+> Also you can contact us on [KAG Discord](https://discord.gg/kag) (`Eluded#1367`, `deynarde#4491`).
