@@ -1,0 +1,19 @@
+bookdown::gitbook:
+  css: css/style.css
+  config:
+    fontsettings:
+      theme: night
+    toc:
+      before: |
+        <li><a href="./">Knight Compendium</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/deynarde/kag-knight-compendium/blob/master/%s
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: latex/preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default

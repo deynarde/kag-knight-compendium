@@ -1,0 +1,44 @@
+# Combos
+
+## Slash → jab → jab head
+
+This is an instakill combo which is a normal slash → jab combined with an overhead jab. The enemy will still be ‘in shock’ from the slash → jab and usually won't be fast enough to shield the final jab.
+
+![](http://i.giphy.com/l0Exf2CgQMS4p4N7q.gif)
+
+## Shield stun → bomb
+
+Shield stun your enemy right before your bomb is about to explode, then throw the bomb. They will still be stunned when it explodes and will be unable to shield the explosion.
+
+![](http://i.giphy.com/26xBQ8Z0ViAzhPpv2.gif)
+
+## Chained shield bashing
+
+It is possible to keep someone in a near permanent stunlock by repeatedly shield bashing them. This move is especially useful to counter someone who is holding a bomb, as they won't be able to throw it while stunned.
+
+![](http://i.giphy.com/26gsaUJ1MV0Cs2rWo.gif)
+
+## Slash stomp → jab
+
+This combo is a slash stomp followed by a jab. It can be done on a shielding enemy for 3 points of damage (the stomp breaks the shield, then the slash hits for 2 points and the jab for 1 point).
+Against a non-shielding enemy it is an instant kill.
+
+![](http://i.giphy.com/l0ExeMYKhKTKCTapy.gif)
+
+## Double slash → jab → shield bash
+
+A 4 points of damage combo that can be used against someone who is shielding.
+
+* First slash breaks shield
+* Second slash hits for 2 points of damage
+* Jab for 1 point
+* Move away and then shield slide the enemy to break their shield
+* Jab again for 1 point
+
+![](http://i.giphy.com/l0Exea2BaWxOVfbUI.gif)
+
+## Bomb → jab
+
+This combo deals up to 4 points of damage. The idea is to throw a bomb so it explodes just behind an enemy. This will deal 3 points of damage and will briefly stun them, which allows enough time to jab for the final point before the enemy is ready to block.
+
+![](http://i.giphy.com/xUPGcEL5zjfcrSBzO0.gif)
